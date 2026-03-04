@@ -24,6 +24,7 @@ Install Python 3.0 from python.org
 Install pyinstaller by running "python -m pip install pyinstaller
 
 COMPILING
+
 Download "logo.ico" and "Calculator.py"
 
 put both files in the same directory
