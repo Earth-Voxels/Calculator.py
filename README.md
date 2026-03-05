@@ -4,8 +4,12 @@ A simple calculator built with Python and Tkinter
 # Requirements
 Any Windows NT operating system
 
-# Using
-Run the "Calculator.exe" file
+# Using the Program
+# on Windows
+Download the "Calculator.exe" file and simply run it
+
+# on Linux
+Download the "CalculatorLinux" file then open the terminal and then cd to the directory the file is in and run "./CalculatorLinux"
 
 # Source code
 the source code is available in "Calculator.py"
